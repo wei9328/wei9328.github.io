@@ -1,0 +1,59 @@
+.container {
+    width: 500px;
+    /* 若文字太長難以閱讀，改container的寬度 */
+    margin:auto;
+    padding:10px;
+}
+.myphoto{
+    width: 120px;
+    border-radius: 9999px;
+}
+.photo{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+h1{
+    color: rgb(84, 72, 247);
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.info{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #5e5c5c;
+    line-height: 30px;
+}
+.button{
+    position: relative;
+    color: #d8d0d0;
+    text-decoration: none;
+    display: block;
+    border: 1px solid rgb(180, 176, 176);
+    padding: 20px;
+    text-align: center;
+    margin: 30px 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #ffffff;
+}
+.button a {
+    color: #d2d2d2;
+    text-decoration: none;
+    letter-spacing: 4px;
+    font-size: 18px;
+}
+.icon {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 40px;
+}
+.icon2{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 40px;
+}
